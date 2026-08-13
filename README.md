@@ -12,7 +12,8 @@
 # Overview
 
 This repository documents my hands-on learning journey through the **TryHackMe SOC Level 1** learning path.
-<img width="1362" height="891" alt="Certificate of completion -SHIVAM PANDEY" src="https://github.com/user-attachments/assets/6dbd826c-d579-4d5f-9b81-f3181a2e671b" />
+<img width="1358" height="663" alt="THM-CERTIFICATE -VAISHNAVI MORE SOC L1" src="https://github.com/user-attachments/assets/42875923-6b05-4e46-9279-afc9ece5a734" />
+
 
 
 The primary objective of this repository is to demonstrate practical Blue Team knowledge by completing labs, investigating alerts, analyzing logs, understanding attacker techniques, and documenting acquired skills throughout the learning process.
@@ -348,7 +349,8 @@ This repository is regularly updated as I complete additional rooms and improve 
 # Certifications
 
 Completion certificates earned throughout this learning path are available inside the **Certificate** directory.
-<img width="1291" height="914" alt="Certifacte - SHIVAM PANDEY - SOC L1" src="https://github.com/user-attachments/assets/1ab4c083-c19b-46d4-9415-10378b1bf2b8" />
+<img width="1294" height="919" alt="THM-CERTIFICATE -VAISHNAVI MORE SOC L1" src="https://github.com/user-attachments/assets/173ba217-3f51-4799-98b3-7cd60a050d9f" />
+
 
 ---
 
@@ -356,7 +358,7 @@ Completion certificates earned throughout this learning path are available insid
 
 Achievement badges earned from TryHackMe are available inside the **Awarded Badges** directory.
 
----![Uploading COMPLETE BADGE IMAGE PART 2.png…]()
+<img width="657" height="774" alt="THM-BADGE-PART 2 - VAISHNAVI" src="https://github.com/user-attachments/assets/c0a46837-4304-47c9-8fb2-ddc0668b558f" />
 
 
 # Screenshots
@@ -367,12 +369,12 @@ Screenshots documenting completed labs and practical exercises are available ins
 
 # Connect With Me
 
-**Shivam Pandey**
+**Vaishnavi More**
 
 Aspiring SOC Analyst | Blue Team | SIEM | Threat Hunting | Incident Response
 
-- LinkedIn: https://www.linkedin.com/in/shivam-pandey-a678a6381/
-- GitHub: https://github.com/SHIVAM-PANDEY-SOC
+- LinkedIn: https://www.linkedin.com/in/vaishnavi-more-a6a8492a6/
+- GitHub: https://github.com/VAISHNAVI-MORE-SOC-L1
 
 ---
 
